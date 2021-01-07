@@ -1,0 +1,6 @@
+The Vector Mod is just one of those generic that sprinkles useful items throughout the game. Eventually, it'll end up extending the length of progression and greatly expanding what already exists.
+
+Credits:
+VRZ#5177 - Main developer
+Pyroknight#1787 - Contributor
+As with most in-development mods, we'll always be accepting contributions to the mod.

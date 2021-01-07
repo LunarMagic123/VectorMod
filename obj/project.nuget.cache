@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5TJ4J0qaioVdVYxfbTNFx3VwgzALG6qblFwHwUR+jYWnO16r2nOIy7sCj+MwwsLwRaNwfGFTH1DtYVbf/t85A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\God\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\VectorMod\\VectorMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\God\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

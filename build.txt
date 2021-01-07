@@ -1,0 +1,3 @@
+author = Ve Ruze
+version = 1.0.03
+displayName = The Vector Mod
